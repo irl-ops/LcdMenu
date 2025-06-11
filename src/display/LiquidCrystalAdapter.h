@@ -3,7 +3,7 @@
 #include <Arduino.h>
 #include <LiquidCrystal.h>
 #include <utils/constants.h>
-#include <utils/utils.h>
+#include <utils/MenuUtils.h>
 
 #include "CharacterDisplayInterface.h"
 
