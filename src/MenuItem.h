@@ -31,7 +31,7 @@
 
 #include "renderer/MenuRenderer.h"
 #include "utils/constants.h"
-#include <utils/utils.h>
+#include <utils/MenuUtils.h>
 
 class LcdMenu;
 class MenuScreen;

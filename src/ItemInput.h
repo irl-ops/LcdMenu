@@ -3,7 +3,7 @@
 
 #include "LcdMenu.h"
 #include "MenuItem.h"
-#include <utils/utils.h>
+#include <utils/MenuUtils.h>
 
 /**
  * @brief Item that allows user to input string information.
